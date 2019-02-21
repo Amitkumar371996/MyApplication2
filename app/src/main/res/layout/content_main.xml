@@ -42,4 +42,13 @@
         tools:layout_editor_absoluteX="31dp"
         tools:layout_editor_absoluteY="209dp" />
 
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberPassword"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="270dp" />
+
 </android.support.constraint.ConstraintLayout>
